@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\03d3dbcb-ff72-4577-9c98-8870498533dd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\03d3dbcb-ff72-4577-9c98-8870498533dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\07b2f250-e660-4010-818d-3b3229540c39.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\07b2f250-e660-4010-818d-3b3229540c39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\1d0c86b1-9cca-47d3-843d-a7883bca1e0d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1d0c86b1-9cca-47d3-843d-a7883bca1e0d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\3ca4f01e-5cdc-4834-af29-5f135cfd6d40.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3ca4f01e-5cdc-4834-af29-5f135cfd6d40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\4cd04c8a-8681-4bb4-97bf-03129da5ce0e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4cd04c8a-8681-4bb4-97bf-03129da5ce0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\520b9513-7ec1-435e-adab-616851c68a69.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\520b9513-7ec1-435e-adab-616851c68a69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\5bf30491-b214-424d-a034-bff890e6669f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5bf30491-b214-424d-a034-bff890e6669f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\68949c8b-11ee-4ae7-b152-5eedde3275f7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\68949c8b-11ee-4ae7-b152-5eedde3275f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\6eac90ad-df28-4eda-aa64-64dc7019992d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6eac90ad-df28-4eda-aa64-64dc7019992d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\6eeefa84-b956-440d-9508-bd3deaa59d6b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6eeefa84-b956-440d-9508-bd3deaa59d6b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\76f7aafa-7ffe-4b1a-b43f-8543f03199e1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\76f7aafa-7ffe-4b1a-b43f-8543f03199e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\7fb4886b-2b35-4ec6-a0ee-9bb730f8e605.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7fb4886b-2b35-4ec6-a0ee-9bb730f8e605.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\8f6b84bc-c1d0-4aec-a835-f4bb7e8f5dbd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8f6b84bc-c1d0-4aec-a835-f4bb7e8f5dbd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\986c09c7-8bf5-4012-8cbb-ecd31cd5154e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\986c09c7-8bf5-4012-8cbb-ecd31cd5154e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\a331af45-d7c8-42cc-873c-a66fb318800f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a331af45-d7c8-42cc-873c-a66fb318800f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\a375f86e-288a-4c4a-b8ff-7897a456c9e2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a375f86e-288a-4c4a-b8ff-7897a456c9e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\a585c310-bbea-4566-afc3-323c2feeb7d2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a585c310-bbea-4566-afc3-323c2feeb7d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\ace66b5c-a354-4901-9876-6bc9c27fea2d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ace66b5c-a354-4901-9876-6bc9c27fea2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\b941b3f0-9668-4192-a218-7c015e67b7b4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b941b3f0-9668-4192-a218-7c015e67b7b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\e510a388-c5bb-4a24-9612-d03ca1809d47.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e510a388-c5bb-4a24-9612-d03ca1809d47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\ed490acb-183c-415e-b817-de4eac63d96a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ed490acb-183c-415e-b817-de4eac63d96a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\f2ba61f4-35a1-4eac-a958-f9b00668867b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f2ba61f4-35a1-4eac-a958-f9b00668867b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\f47a4830-9040-4328-a2cd-0a24fbec13e9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f47a4830-9040-4328-a2cd-0a24fbec13e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\f6929380-f864-4c6c-b3a2-b4771e20e851.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f6929380-f864-4c6c-b3a2-b4771e20e851.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\images\\product\\f8e55291-90ab-4c33-88e8-db7acdc91f35.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f8e55291-90ab-4c33-88e8-db7acdc91f35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Udemy-13\\BulkyChess\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
+      "PackagePath": "build\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
+      "PackagePath": "buildTransitive\\BulkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
