@@ -1,0 +1,24 @@
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.deps.json
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.deps.json
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll

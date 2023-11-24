@@ -1,0 +1,38 @@
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.runtimeconfig.json
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.genruntimeconfig.cache
+C:\Users\PC\Desktop\Udemy1\.NET Core MVC - Bruegen\Bulky\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.runtimeconfig.json
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.genruntimeconfig.cache
+C:\Users\PC\Desktop\Udemy-13\Bulky\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll
